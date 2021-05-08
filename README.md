@@ -1,4 +1,4 @@
-# Minecraft Bedrock Project Standard
+# Minecraft Bedrock Project Cache Standard
 
 The goal of this standard is to unify multiple program, analyzers, generators or
 intellisense for example. This is accomplished through a universal data caching
@@ -6,7 +6,7 @@ format. A secondary goal is also to provided sample files for unit testing
 
 **Content**
 
-- [Minecraft Bedrock Project Standard](#minecraft-bedrock-project-standard)
+- [Minecraft Bedrock Project Cache Standard](#minecraft-bedrock-project-cache-standard)
 	- [Data Caching](#data-caching)
 
 ## Data Caching
